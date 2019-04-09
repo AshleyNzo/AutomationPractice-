@@ -1,0 +1,15 @@
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\obj\Debug\netcoreapp2.1\AutomationProject.csproj.CoreCompileInputs.cache
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\obj\Debug\netcoreapp2.1\AutomationProject.AssemblyInfoInputs.cache
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\obj\Debug\netcoreapp2.1\AutomationProject.AssemblyInfo.cs
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\bin\Debug\netcoreapp2.1\AutomationProject.deps.json
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\bin\Debug\netcoreapp2.1\AutomationProject.runtimeconfig.json
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\bin\Debug\netcoreapp2.1\AutomationProject.runtimeconfig.dev.json
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\bin\Debug\netcoreapp2.1\AutomationProject.dll
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\bin\Debug\netcoreapp2.1\AutomationProject.pdb
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\obj\Debug\netcoreapp2.1\AutomationProject.dll
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\obj\Debug\netcoreapp2.1\AutomationProject.pdb
+C:\Users\Ashle\source\repos\AutomationProject\AutomationProject\obj\Debug\netcoreapp2.1\AutomationProject.csprojAssemblyReference.cache
